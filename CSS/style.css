@@ -9,3 +9,64 @@
 a[title] {
     color: red;
 }
+
+.link {
+    color: teal;
+}
+
+.link:hover {
+    color: orange;
+}
+
+.social-links .link {
+    color: teal;
+}
+
+.social-links .link:hover,
+.social-links .link:focus {
+    color: orange;
+}
+
+.social-links .link {
+    color: teal;
+}
+
+.social-links .link:hover,
+.social-links .link:focus {
+    color: orange;
+}
+
+.social-links .link:active {
+    color: red;
+}
+
+.social-links .link:visited {
+    color: greeen;
+}
+
+.schedule-body>tr:hover {
+    background-color: orange;
+}
+
+
+/* Оформление
+таблицы */
+
+.schedule {
+    border-collapse: collapse;
+}
+
+.schedule th,
+.schedule td {
+    padding: 8px;
+    border: 1px solid #212121;
+}
+
+p {
+    color: blue;
+    background-color: orange;
+}
+
+p {
+    color: teal;
+}
