@@ -1,3 +1,11 @@
 .acces {
     color: red;
 }
+
+.menu>li {
+    border: 2px solid blue;
+}
+
+a[title] {
+    color: red;
+}
