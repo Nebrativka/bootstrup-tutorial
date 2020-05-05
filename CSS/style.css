@@ -1,72 +1,60 @@
-.acces {
-    color: red;
+:root {
+    --primary-text-color: ;
+    --tetle-text-color: ;
+    --accent-color: ;
 }
 
-.menu>li {
-    border: 2px solid blue;
+.page {
+    color: rgba(0, 0, 0, 0.8);
+    background-color: #fff;
 }
 
-a[title] {
-    color: red;
+.logo {
+    color: #000000;
 }
 
-.link {
-    color: teal;
-}
-
-.link:hover {
-    color: orange;
-}
-
-.social-links .link {
-    color: teal;
-}
-
-.social-links .link:hover,
-.social-links .link:focus {
-    color: orange;
-}
-
-.social-links .link {
-    color: teal;
-}
-
-.social-links .link:hover,
-.social-links .link:focus {
-    color: orange;
-}
-
-.social-links .link:active {
-    color: red;
-}
-
-.social-links .link:visited {
-    color: greeen;
-}
-
-.schedule-body>tr:hover {
-    background-color: orange;
+.list {
+    list-style: none;
 }
 
 
-/* Оформление
-таблицы */
+/* Site nav */
 
-.schedule {
-    border-collapse: collapse;
+.site-nav a {
+    color: #18a0fb;
 }
 
-.schedule th,
-.schedule td {
-    padding: 8px;
-    border: 1px solid #212121;
+.site-nav a:hover,
+.site-nav a:focus {
+    color: black;
 }
 
-p {
-    color: blue;
-    background-color: orange;
+.section-title {
+    color: black;
 }
 
-p {
-    color: teal;
+
+/* /* <!-- ПРЕЙМУЩЕСТВА --> */
+
+.featery-list .title {
+    color: black;
 }
+
+.featery-list .link {
+    color: #18a0fb;
+}
+
+
+/* цвет основного цекста color: #000000; */
+
+
+/* вторичній цвет текста rgba(0, 0, 0, 0.8) */
+
+
+/* белый #ffffff */
+
+
+/* акцент #18A0FB */
+
+
+/*  */
