@@ -1,0 +1,16 @@
+.btn {
+    display: inline-block;
+    padding: 20px 40px;
+    background-color: teal;
+    border: solid 3px blueviolet;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+.btn-item {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: blueviolet;
+    vertical-align: bottom;
+}

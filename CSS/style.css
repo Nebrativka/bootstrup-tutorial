@@ -58,3 +58,60 @@
 
 
 /*  */
+
+
+/* Lesson4 */
+
+.text>span {
+    text-decoration: line-through;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.site-nav .link {
+    text-transform: uppercase;
+}
+
+.post-title {
+    text-align: center;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-justify {
+    text-align: justify;
+}
+
+.post-text {
+    text-indent: 100px;
+}
+
+.text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.title {
+    color: #ffffff;
+    text-shadow: 2px 10px 4px #000000;
+}
+
+.titlel {
+    color: #ffffff;
+    text-shadow: 2px 2px 20px #ff0000, 5px 5px 5px #000000;
+}
+
+pre {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    color: #2a2a2a;
+    font-size: 16px;
+}
+
+pre::selection {
+    color: #ffffff;
+    background-color: #3f51b5;
+}
